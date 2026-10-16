@@ -1,0 +1,7 @@
+[
+    {"severity": "critical"},
+    {"severity": "urgent"},
+    {},
+    123,
+    "warning"
+]
